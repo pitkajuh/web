@@ -113,12 +113,14 @@ Enrico Guiraud:
 
 Florine de Geus:
   name        : "Florine de Geus"
-  bio         : "Florine joined CERN as a technical student in November 2022. As part of the ROOT
-                 team, she is working together with the ATLAS experiment to evaluate and further
-                 develop ROOT's new I/O subsystem, RNTuple, so it can be used as effectively as
-                 possible for the experiment's analyses. After the technical studentship, Florine
-                 is set to graduate with a master's degree in Software Engineering from the
-                 University of Amsterdam."
+  bio         : "Florine joined CERN and the ROOT team as a technical student in November
+                 2022 where, as part of the ATLAS experiment, she worked to evaluate and
+                 further develop ROOT's new I/O subsystem, RNTuple, so it can be used as
+                 effectively as possible for the experiment's analyses. She graduated from
+                 the University of Amsterdam with a master's degree in Software Engineering.
+                 As of January 2024, Florine is continuing her work on RNTuple as a PhD
+                 student at CERN and the University of Twente."
+  short_bio   : "Florine is a PhD student working on RNTuple."
   tag         : "team"
   avatar      : "/assets/images/FdG.png"
   affiliation : "CERN"
@@ -188,6 +190,34 @@ Lorenzo Moneta:
   affiliation : "CERN"
   email       : "Lorenzo.Moneta@cern.ch"
 
+Marta Czurylo:
+  name        : "Marta Czurylo"
+  bio         : "Marta obtained her M.Sc. in Physics from University College London. 
+                 She continued as a Physics PhD student in the ATLAS experiment 
+                 at the University of Heidelberg, working on the di-Higgs analysis. 
+                 Marta graduated in 2023 and joined the ROOT team as a Fellow
+                 soon after. Her main role is developing and maintaining the RDataFrame."
+  short_bio   : "Marta works on RDataFrame development and maintenance."
+  tag         : "team"
+  avatar      : "/assets/images/MC.jpg"
+  affiliation : "CERN"
+  email       : "marta.maja.czurylo@cern.ch"  
+
+
+Monica Dessole:
+  name        : "Monica Dessole"
+  bio         : "Monica graduated from the Mathematics Department of the University of
+                 Padua, where she also received her Ph.D. in Computational Mathematics in
+                 2022 with a thesis on numerical linear algebra algorithms targeting
+                 massively parallel archirectures. She joined ROOT in 2023 as a senior
+                 fellow to speed up linear algebra computations with modern technologies
+                 such as heterogeneous computing on GPUs and performance portability with
+                 SYCL."
+  short_bio   : "Monica is accelerating linear algebra computations with SYCL."
+  tag         : "team"
+  avatar      : "/assets/images/MD.jpg"
+  affiliation : "CERN"
+  email       : "monica.dessole@cern.ch"
 
 Olivier Couet:
   name        : "Olivier Couet"
@@ -277,36 +307,6 @@ Vincenzo Eduardo Padulano:
   avatar      : "/assets/images/VEP.jpg"
   affiliation : "CERN"
   email       : "vincenzo.eduardo.padulano@cern.ch"
-
-
-Marta Czurylo:
-  name        : "Marta Czurylo"
-  bio         : "Marta obtained her M.Sc. in Physics from University College London. 
-                 She continued as a Physics PhD student in the ATLAS experiment 
-                 at the University of Heidelberg, working on the di-Higgs analysis. 
-                 Marta graduated in 2023 and joined the ROOT team as a Fellow
-                 soon after. Her main role is developing and maintaining the RDataFrame."
-  short_bio   : "Marta works on RDataFrame development and maintenance."
-  tag         : "team"
-  avatar      : "/assets/images/MC.jpg"
-  affiliation : "CERN"
-  email       : "marta.maja.czurylo@cern.ch"  
-
-
-Monica Dessole:
-  name        : "Monica Dessole"
-  bio         : "Monica graduated from the Mathematics Department of the University of
-                 Padua, where she also received her Ph.D. in Computational Mathematics in
-                 2022 with a thesis on numerical linear algebra algorithms targeting
-                 massively parallel archirectures. She joined ROOT in 2023 as a senior
-                 fellow to speed up linear algebra computations with modern technologies
-                 such as heterogeneous computing on GPUs and performance portability with
-                 SYCL."
-  short_bio   : "Monica is accelerating linear algebra computations with SYCL."
-  tag         : "team"
-  avatar      : "/assets/images/MD.jpg"
-  affiliation : "CERN"
-  email       : "monica.dessole@cern.ch"
 
 
 Andrei Gheata:
